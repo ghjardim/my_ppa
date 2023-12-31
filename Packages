@@ -1,3 +1,16 @@
+Package: stagit
+Version: 1.2-1
+Architecture: amd64
+Maintainer: Guilherme Jardim <>
+Depends: libgit2-1.5 (>= 1.5)
+Filename: ./stagit-1.2-1.deb
+Size: 22616
+MD5sum: caf025401d68e8ff11412874ed69fc4a
+SHA1: 5157e9679089e393f643e06b54d6015adf1affcf
+SHA256: 5077749169af1fbfb150caed1c7e82e735916edf1e227d97ff0b146a6d011f7e
+Section: web
+Description: static git page generator.
+
 Package: txtnish
 Version: 0.3-1
 Architecture: all
