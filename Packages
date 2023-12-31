@@ -1,0 +1,14 @@
+Package: txtnish
+Version: 0.3-1
+Architecture: all
+Maintainer: Guilherme Jardim <>
+Depends: gawk (>= 1:5.2.1), sed (>= 4.9), curl (>= 8.4.0)
+Filename: ./txtnish_0.3-1.deb
+Size: 13804
+MD5sum: e86f0f6588cdb328a74d9e96b4f9f190
+SHA1: 7753a5523c96b4346c2881c18a6e1f784e9da45d
+SHA256: 0d618a7217420134b4f06602d8d42dd0e36f9ea4204b61331184d87c94e1c8aa
+Section: web
+Priority: optional
+Description: Minimalist twtxt client
+
