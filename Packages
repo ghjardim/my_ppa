@@ -15,15 +15,15 @@ Homepage: https://github.com/justchokingaround/lobster/
 Description: watch movies from a public server.
 
 Package: stagit
-Version: 1.2-2
+Version: 1.2-3
 Architecture: amd64
 Maintainer: Guilherme Jardim <>
 Depends: libgit2-1.5 (>= 1.5)
-Filename: ./stagit_1.2-2.deb
-Size: 22632
-MD5sum: 74a3046b5eb36a93eb520c5a2f8f9903
-SHA1: 05b05da0ec503dbaa95c54316f8efcc7256a59c2
-SHA256: 7391d194bfe9a217510d6f132735516d50339ea3f1cc781c4c25bbfd559a8603
+Filename: ./stagit_1.2-3.deb
+Size: 22944
+MD5sum: 5b453d41f3756f527e6a7740d12a2378
+SHA1: 456041f761293d276de2336c04dc15957cb7f17a
+SHA256: 925fe1b053207e1ce0c014e174d9edc8c636abb0bd757e5de7e1138f6d149a5d
 Section: web
 Description: static git page generator.
 
