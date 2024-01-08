@@ -1,3 +1,19 @@
+Package: lobster.sh
+Version: 4.2.1-1
+Architecture: all
+Maintainer: Guilherme Jardim <>
+Depends: fzf (>= 0.38.0), libnotify-bin (>= 0.8.1), sed (>= 4.9), curl (>= 7.88.1), grep (>= 3.8), mpv (>= 0.35.1)
+Recommends: rofi (>= 1.7.3)
+Filename: ./lobster_4.2.1-1.deb
+Size: 8520
+MD5sum: 15366c17a41edc4378d887d6787ed6c3
+SHA1: a6fbe9e3cb4f7f8c1ef09af4647c1533b72cf3b8
+SHA256: 5b653d1db4000e07eac2a804022be126f27f0fdd2b56cd08b97a2364af238fff
+Section: web
+Priority: optional
+Homepage: https://github.com/justchokingaround/lobster/
+Description: watch movies from a public server.
+
 Package: stagit
 Version: 1.2-1
 Architecture: amd64
