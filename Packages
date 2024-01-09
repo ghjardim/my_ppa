@@ -15,17 +15,18 @@ Homepage: https://github.com/justchokingaround/lobster/
 Description: watch movies from a public server.
 
 Package: stagit
-Version: 1.2-3
+Version: 1.2-4
 Architecture: amd64
 Maintainer: Guilherme Jardim <>
 Depends: libgit2-1.5 (>= 1.5)
-Filename: ./stagit_1.2-3.deb
-Size: 22944
-MD5sum: 5b453d41f3756f527e6a7740d12a2378
-SHA1: 456041f761293d276de2336c04dc15957cb7f17a
-SHA256: 925fe1b053207e1ce0c014e174d9edc8c636abb0bd757e5de7e1138f6d149a5d
+Filename: ./stagit_1.2-4.deb
+Size: 22832
+MD5sum: 670a58ed4c6504a0cea9c3d25c316932
+SHA1: 1ec3fa7b750b83dfc7b8edae130ff61b1c1a58b7
+SHA256: 8597d902a4d0753b9b8e8b1afd01674d3fb21cc4370c1e3af24f5812008c641b
 Section: web
-Description: static git page generator.
+Description: Lightweight and efficient Static Site Generator for Git repositories
+ Stagit is a nimble static site generator tailored for Git repositories. Crafted in C, it prioritizes speed, simplicity, and adaptability to effortlessly transform your Git-hosted content into a polished HTML website.
 
 Package: txtnish
 Version: 0.3-1
